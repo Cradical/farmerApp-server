@@ -1,0 +1,20 @@
+{
+  "name": "farmerApp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.5",
+    "dotenv": "^8.1.0",
+    "graphql": "^14.5.8",
+    "nodemon": "^1.19.3",
+    "sequelize": "^5.19.4",
+    "sequelize-cli": "^5.5.1"
+  }
+}

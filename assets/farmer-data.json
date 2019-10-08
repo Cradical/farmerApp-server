@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "farmer": {
+      "firstName": "Bill",
+      "lastName": "Boyer",
+      "age": 32
+    },
+    "farmInfo": {
+      "name": "esmerelda",
+      "location": {
+        "country": "Panama",
+        "geoLocation": {
+          "latitude": 49,
+          "longitude": 12
+        }
+      },
+      "products": [
+        {
+          "type": "coffee",
+          "genre": "bourbon",
+          "quality": "good"
+        },
+        {
+          "type": "fruit",
+          "genre": "banana",
+          "quality": "good"
+        }
+      ]
+    }
+  }
+]
